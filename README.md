@@ -12,7 +12,6 @@
     
 </div> 
   <div style="display: inline_block"><br> 
-  <img src="https://media0.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif?cid=ecf05e47j040mldvlgihsg5hhnqlmihy81mkez5egme0dqr0&rid=giphy.gif&ct=s" width="90">
   <img align="center" alt="Chdias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Chdias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Chdias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -28,3 +27,4 @@
 
 
 ![Snake animation](https://github.com/chdias3/chdias3/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://media4.giphy.com/media/29p0L1NemEYmcPZmrZ/giphy.gif" width="120">
