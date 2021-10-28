@@ -1,4 +1,4 @@
-# Olá! eu sou Charles Alexsander <img src="https://media1.giphy.com/media/FDyb54WxxoKoMm98hG/giphy.gif?cid=790b76119f58d8007cc0118a91178ffb50c4bd46b717f29e&rid=giphy.gif&ct=s" width="100">
+# Olá! eu sou Charles Alexsander <img src="https://media3.giphy.com/media/Oj4hXgRkHvcl3il860/giphy.gif?cid=ecf05e47n51yocpgx9qh1nom31kkbvo7dx8w6w9dauppcdaf&rid=giphy.gif&ct=s" width="200">
 
 - 🔭 No momento só estudo
 - 🧑‍🎓 Estudando no Senac e Rocketseat
