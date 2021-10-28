@@ -15,7 +15,7 @@
   <img align="center" alt="Chdias-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Chdias-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Chdias-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Chdias-pic" height="150" src="https://share-cdn.picrew.me/shareImg/org/202110/264932_28rj9zdR.png">
+  <img align="right" alt="Chdias-pic" height="150" src="https://media0.giphy.com/media/Vzet4dOllpPkM5TTlW/giphy.gif?cid=ecf05e47kzj9we7t0apuwy0ntwn82iu5zzfjvm3wjsvia0kj&rid=giphy.gif&ct=s">
 </div>
   
   ##
