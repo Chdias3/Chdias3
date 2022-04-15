@@ -1,6 +1,6 @@
 # Olá! eu sou Charles Alexsander <img src="https://media3.giphy.com/media/Oj4hXgRkHvcl3il860/giphy.gif?cid=ecf05e47n51yocpgx9qh1nom31kkbvo7dx8w6w9dauppcdaf&rid=giphy.gif&ct=s" width="200">
 
-- 🔭 No momento só estudo
+- 🔭 No momento só estudo :rocket:
 - 🧑‍🎓 Estudando no Senac e Rocketseat
 - 💻 Gosto de front-end
 
